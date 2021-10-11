@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome NFT Store Studio 👋👋👋 
 
 
 Quickly create your Metaplex NFT store with NFT Store Studio...
@@ -10,7 +10,9 @@ Apache server , MySQL and PHP and after installation , permission must be given 
 
 Other installation will be Metaplex Github pages and all configurations must be properly deployed .
 
-Deploy the project Apache servers and everythings was fini
+Deploy the project Apache servers and everythings will be finished .
+
+Powered by Metaplex
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
