@@ -15,14 +15,8 @@ Requirement for Platform
 
 Requirement for Metaplex
 
-git clone https://github.com/metaplex-foundation/metaplex.git
-cd metaplex
-cd js
-yarn install
-yarn bootstrap
-yarn start
+Please look all requirement https://github.com/metaplex-foundation/metaplex
 
-<html><iframe width="560" height="315" src="https://www.youtube.com/embed/JXc2XmR_u78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
 
 - 🔭 Installation ...
 
@@ -40,7 +34,7 @@ Powered by Metaplex
 - Create Metaplex with a few click 
 - Single Tenant for user. (system use only one port) 
 
-- ⚡ if there is improvement, what can improve ...
+- ⚡ If you are going to do development , the following features can be ...
 - Multi-tenant (system can be used multiple ports)
 - Monitoring 
 
