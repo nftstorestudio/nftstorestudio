@@ -15,14 +15,14 @@ Requirement for Platform
 
 Requirement for Metaplex
 
-$ git clone https://github.com/metaplex-foundation/metaplex.git
-$ cd metaplex
-$ cd js
-$ yarn install
-$ yarn bootstrap
-$ yarn start
+git clone https://github.com/metaplex-foundation/metaplex.git
+cd metaplex
+cd js
+yarn install
+yarn bootstrap
+yarn start
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JXc2XmR_u78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/JXc2XmR_u78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
 
 - 🔭 Installation ...
 
